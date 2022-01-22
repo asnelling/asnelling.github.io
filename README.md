@@ -4,4 +4,4 @@ Personal webpage for [GitHub Pages](https://pages.github.com/)
 
 ## TODO:
 
-- Redo the whole thing
+- [x] Redo the whole thing
